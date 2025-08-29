@@ -1,5 +1,7 @@
 # Link-in-Bio Website - Dark Mode
 
+![Preview](https://image2url.com/images/1756478108443-4f5916b3-8e80-4c9e-83c6-3c0e0ac3d918.png)
+
 A modern, responsive link-in-bio website built with HTML and CSS, featuring a sleek dark theme design.
 
 ## About This Project
